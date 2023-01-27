@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dreaming Knot （Chinese knot）- 中国结'
+* source:	https://sketchfab.com/3d-models/dreaming-knot-chinese-knot-5097ce74eee6430e8a5b596c04c77a4e
+* author:	IForgetHowToRead (https://sketchfab.com/dirb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dreaming Knot （Chinese knot）- 中国结'" (https://sketchfab.com/3d-models/dreaming-knot-chinese-knot-5097ce74eee6430e8a5b596c04c77a4e) by IForgetHowToRead (https://sketchfab.com/dirb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
